@@ -1,0 +1,7 @@
+langgraph
+langchain-groq
+pydantic
+tavily-python
+requests
+beautifulsoup4
+streamlit 
