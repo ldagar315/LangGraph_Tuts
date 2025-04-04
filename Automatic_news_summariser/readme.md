@@ -17,6 +17,13 @@ The agent takes a user's topic of interest, a time frame (number of days), and a
 7.  **Generates Quiz:** Uses the LLM to create a multiple-choice quiz (3 questions by default) based on the final summary content, ensuring questions test core understanding.
 8.  **Outputs:** Returns the generated summary and the list of quiz questions.
 
+![image](https://github.com/user-attachments/assets/ce451839-0956-4d9a-ad58-1747bcae1811)
+
+<img width="1680" alt="Screenshot 2025-04-04 at 9 46 06 PM" src="https://github.com/user-attachments/assets/317a1928-84d1-4d1d-a7f3-64b7a8a47d14" />
+
+<img width="1680" alt="Screenshot 2025-04-04 at 9 46 19 PM" src="https://github.com/user-attachments/assets/d1c65dcb-6b80-43ad-833f-8344a47749fd" />
+
+
 ## Features
 
 * **Automated News Fetching:** Leverages `Tavily Search` for real-time news discovery.
